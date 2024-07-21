@@ -1,0 +1,2 @@
+warp://auto/?ifpd=15-25
+warp://auto6/?ifpd=15-25
